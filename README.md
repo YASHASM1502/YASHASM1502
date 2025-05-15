@@ -1,6 +1,6 @@
-### 👨‍💻 Full Stack Developer | Problem Solver | Tech Enthusiast
+# 👨‍💻 Full Stack Developer | Problem Solver | Tech Enthusiast
 
-## 🚀 About Me
+### 🚀 About Me
 Hi! I’m **Yashas M Samrat**, a passionate Full Stack Developer skilled in building scalable and performant web applications. I enjoy working across the entire stack — from designing sleek frontends to architecting robust backend services.
 
 ---
