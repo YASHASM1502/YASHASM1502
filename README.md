@@ -39,4 +39,3 @@ Whether working solo or in a team, I aim to deliver solutions that are not only 
 
 ---
 
-Would you like to make it even more tailored for a specific job role (e.g., SaaS platforms, logistics systems, fintech, etc.)?
