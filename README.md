@@ -1,4 +1,4 @@
-# Full Stack Developer Portfolio / Project
+# Full Stack Developer
 
 ## 🚀 About Me
 Hi! I’m **[Your Name]**, a passionate Full Stack Developer skilled in building scalable and performant web applications. I enjoy working across the entire stack — from designing sleek frontends to architecting robust backend services.
