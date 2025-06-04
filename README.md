@@ -17,6 +17,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yashas-m-418b39243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yashas ." height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/1ER3yZgEFh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Yashas M" height="30" width="40" /></a>
+<a href="https://instagram.com/itz_max_samrat33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_max_samrat33" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
